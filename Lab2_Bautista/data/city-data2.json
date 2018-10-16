@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "city-data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Manila", "latitude": 14.59, "longitude": 120.98, "april": 897, "may": 867, "june": 1166, "july": 1075, "august": 612, "september": 639, "october": 252 }, "geometry": { "type": "Point", "coordinates": [ 120.98, 14.59 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "Bangkok", "latitude": 13.75, "longitude": 100.5, "april": 817, "may": 296, "june": 353, "july": 858, "august": 2402, "september": 2818, "october": 389 }, "geometry": { "type": "Point", "coordinates": [ 100.5, 13.75 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "New Delhi", "latitude": 28.61, "longitude": 77.2, "april": 167, "may": 313, "june": 302, "july": 199, "august": 145, "september": 143, "october": 200 }, "geometry": { "type": "Point", "coordinates": [ 77.2, 28.61 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "Seoul", "latitude": 37.56, "longitude": 126.97, "april": 604, "may": 591, "june": 541, "july": 369, "august": 935, "september": 854, "october": 598 }, "geometry": { "type": "Point", "coordinates": [ 126.97, 37.56 ] } },
+{ "type": "Feature", "properties": { "id": 5, "name": "Ho Chi Minh", "latitude": 10.74, "longitude": 106.67, "april": 370, "may": 599, "june": 1216, "july": 1552, "august": 2783, "september": 1090, "october": 253 }, "geometry": { "type": "Point", "coordinates": [ 106.67, 10.74 ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "Kuala Lumpur", "latitude": 3.156, "longitude": 101.71, "april": 156, "may": 527, "june": 922, "july": 239, "august": 798, "september": 153, "october": 800 }, "geometry": { "type": "Point", "coordinates": [ 101.71, 3.156 ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": " Vientiane", "latitude": 17.97, "longitude": 102.63, "april": 466, "may": 239, "june": 128, "july": 261, "august": 296, "september": 398, "october": 45 }, "geometry": { "type": "Point", "coordinates": [ 102.63, 17.97 ] } },
+{ "type": "Feature", "properties": { "id": 8, "name": "Taipei", "latitude": 25.03, "longitude": 121.56, "april": 265, "may": 500, "june": 755, "july": 1058, "august": 270, "september": 467, "october": 187 }, "geometry": { "type": "Point", "coordinates": [ 121.56, 25.03 ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "Trongsa", "latitude": 27.51, "longitude": 90.43, "april": 153, "may": 393, "june": 596, "july": 818, "august": 219, "september": 324, "october": 504 }, "geometry": { "type": "Point", "coordinates": [ 90.43, 27.51 ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "Colombo", "latitude": 6.92, "longitude": 79.86, "april": 106, "may": 240, "june": 129, "july": 244, "august": 399, "september": 202, "october": 466 }, "geometry": { "type": "Point", "coordinates": [ 79.86, 6.92 ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "Davao", "latitude": 7.19, "longitude": 125.45, "april": 466, "may": 281, "june": 380, "july": 98, "august": 177, "september": 250, "october": 202 }, "geometry": { "type": "Point", "coordinates": [ 125.45, 7.19 ] } },
+{ "type": "Feature", "properties": { "id": 12, "name": "Phuket", "latitude": 7.95, "longitude": 98.33, "april": 163, "may": 307, "june": 426, "july": 627, "august": 190, "september": 391, "october": 187 }, "geometry": { "type": "Point", "coordinates": [ 98.33, 7.95 ] } },
+{ "type": "Feature", "properties": { "id": 13, "name": "Bangalore", "latitude": 12.97, "longitude": 77.59, "april": 268, "may": 523, "june": 246, "july": 332, "august": 670, "september": 327, "october": 920 }, "geometry": { "type": "Point", "coordinates": [ 77.59, 12.97 ] } },
+{ "type": "Feature", "properties": { "id": 14, "name": "Jaffna", "latitude": 9.66, "longitude": 80.02, "april": 121, "may": 800, "june": 400, "july": 120, "august": 543, "september": 300, "october": 324 }, "geometry": { "type": "Point", "coordinates": [ 80.02, 9.66 ] } },
+{ "type": "Feature", "properties": { "id": 15, "name": "Padang", "latitude": -0.94, "longitude": 100.41, "april": 156, "may": 400, "june": 560, "july": 120, "august": 343, "september": 500, "october": 50 }, "geometry": { "type": "Point", "coordinates": [ 100.41, -0.94 ] } }
+]
+}
